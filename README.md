@@ -29,13 +29,13 @@ The form includes basic HTML markup:
 			   <div class="col-md-8">
 			   <div class="form-group">
 				  <label class="sr-only" for="name">Name</label>
-				  <input name="formfields[name]" id="name" class="form-control validate[required]" type="text" value="" placeholder="Name *">
+				  <input name="name" id="name" class="form-control validate[required]" type="text" value="" placeholder="Name *">
 			   </div>
 			   </div>
 			   <div class="col-md-4">
 			   <div class="form-group">
 				  <label class="sr-only" for="email">Email</label>
-				  <input name="formfields[email]" id="email" class="form-control validate[required,custom[email]]" type="email" value="" placeholder="Email *">
+				  <input name="email" id="email" class="form-control validate[required,custom[email]]" type="email" value="" placeholder="Email *">
 				  <input type="hidden" name="formfields[fromEmail]" id="fromEmail" value="">
 			   </div>
 			</div>
@@ -45,13 +45,13 @@ The form includes basic HTML markup:
 			<div class="col-md-4">
 			   <div class="form-group">
 				  <label class="sr-only" for="phone">Phone</label>
-				  <input name="formfields[phone]" id="phone" class="form-control h5-phone validate[required,custom[phone]]" type="tel" value="" placeholder="Phone *"> 
+				  <input name="phone" id="phone" class="form-control h5-phone validate[required,custom[phone]]" type="tel" value="" placeholder="Phone *"> 
 			   </div>
 			</div>
 			<div class="col-md-4">
 			   <div class="form-group">
 				  <label class="sr-only" for="company">Company / Organization</label>
-				  <input name="formfields[company]" id="company" class="form-control validate[required]" type="text" value="" placeholder="Company / Organization *">
+				  <input name="company" id="company" class="form-control validate[required]" type="text" value="" placeholder="Company / Organization *">
 			   </div>
 			</div>
 		   <div class="col-md-4">
