@@ -1,5 +1,3 @@
-# contact-footer-forms
-
 # Contact Footer Forms
 
 Converting website visitors to customers or quality leads starts with providing convenient ways for users submit contact information. [Solodev's](https://www.solodev.com/) stylized contact form for the footer of your website provides visitors with the convenience of submiting information no matter the page they visit. The form additionally includes full validation and stylized dropdowns via Selectize.
